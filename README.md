@@ -21,4 +21,13 @@ git checkout [Branch]   # go to a branch
 
 git remote              # check online repository
 git remote -v           # Right of online repository
+git log                 # log of git
+git log --oneline --graph   # one line per log
+git merge               # combine branch
+
+git pull                # fetch code to local repository and merge to local repository
+git fetch               # fetch code to local repository
+git push                # push code to online repository
 ```
+
+
