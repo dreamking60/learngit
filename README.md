@@ -2,6 +2,7 @@
 working by dreamking600
 
 ## A quick Start
+``` bash
 git init                #init a repository
 git add [filename]      # Add a file into cache
 git add .               # Add all file into cache
@@ -10,7 +11,7 @@ git commit -m "[Message]"   # commit into branch in the local repository
 
 git clone [httpOrSsh]   # clone an online repository to local
 
-//branch
+#branch
 git branch [BranchName] # create a branch
 git branch -d [BranchName]  # delete a branch
 git branch -a           # show all branch
@@ -20,4 +21,4 @@ git checkout [Branch]   # go to a branch
 
 git remote              # check online repository
 git remote -v           # Right of online repository
-
+```
